@@ -1,0 +1,312 @@
+[
+  {
+    "url": "https://osteriafrancescana.it/wine-list",
+    "score": 67,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "4 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Wine List - OSTERIA FRANCESCANA",
+      "description": null,
+      "canonical": null,
+      "ogImage": "https://osteriafrancescana.it/wp-content/uploads/2023/12/osteria-francescana-site-image.jpg"
+    }
+  },
+  {
+    "url": "https://osteriafrancescana.it/our-restaurants-in-modena",
+    "score": 68,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "8 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Our restaurants in modena - OSTERIA FRANCESCANA",
+      "description": null,
+      "canonical": null,
+      "ogImage": "https://osteriafrancescana.it/wp-content/uploads/2023/12/osteria-francescana-site-image.jpg"
+    }
+  },
+  {
+    "url": "https://osteriafrancescana.it/cookie-policy",
+    "score": 70,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "4 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Cookie Policy - OSTERIA FRANCESCANA",
+      "description": null,
+      "canonical": null,
+      "ogImage": "https://osteriafrancescana.it/wp-content/uploads/2023/12/osteria-francescana-site-image.jpg"
+    }
+  },
+  {
+    "url": "https://osteriafrancescana.it/privacy-policy",
+    "score": 70,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing meta description"
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "4 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Privacy Policy - OSTERIA FRANCESCANA",
+      "description": null,
+      "canonical": null,
+      "ogImage": "https://osteriafrancescana.it/wp-content/uploads/2023/12/osteria-francescana-site-image.jpg"
+    }
+  },
+  {
+    "url": "https://osteriafrancescana.it/menu",
+    "score": 85,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (26 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "warning",
+        "message": "10 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Meta description is properly configured",
+      "Single H1 heading present",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Menu - OSTERIA FRANCESCANA",
+      "description": "A culinary journey reinterpreting a selection of iconoclastic dishes of Osteria Francescana, bringing the best of the past into the future",
+      "canonical": "https://osteriafrancescana.it/menu/",
+      "ogImage": "https://osteriafrancescana.it/wp-content/uploads/2026/02/osteria_franescana_DSC5436_orizz-1.jpg"
+    }
+  },
+  {
+    "url": "https://osteriafrancescana.it/faq",
+    "score": 87,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (25 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "warning",
+        "message": "Meta description too long (228 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "3 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Single H1 heading present",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Faq - OSTERIA FRANCESCANA",
+      "description": "For further request you can contact the restaurant at +39 059223912, every day from 10:00 am to 7:00 pm (Italy time)”. If no one answers, please send an email to reserve@osteriafrancescana.it and you will be contacted back soon.",
+      "canonical": "https://osteriafrancescana.it/faq/",
+      "ogImage": "https://osteriafrancescana.it/wp-content/uploads/2023/12/osteria-francescana-site-image.jpg"
+    }
+  },
+  {
+    "url": "https://osteriafrancescana.it/massimo-bottura",
+    "score": 87,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too short (99 chars). Aim for 150-160 characters."
+      },
+      {
+        "type": "warning",
+        "message": "7 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Single H1 heading present",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Massimo Bottura - OSTERIA FRANCESCANA",
+      "description": "My name is Massimo Bottura. I am an Italian chef born in Modena. I grew up under the kitchen table.",
+      "canonical": "https://osteriafrancescana.it/massimo-bottura/",
+      "ogImage": "https://osteriafrancescana.it/wp-content/uploads/2023/12/Pane-e-Oro-2015-2023-1_Paolo-Terzi.jpg"
+    }
+  },
+  {
+    "url": "https://osteriafrancescana.it/",
+    "score": 88,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (274 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "13 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Single H1 heading present",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "OSTERIA FRANCESCANA - Massimo Bottura",
+      "description": "“Osteria Francescana is a laboratory of ideas.It is also an observatory where we look at the past in a critical way, not a nostalgic one. Tradition in Evolution means looking at our culinary traditions from 10 kilometers away, to bring the best of the past into the future.”",
+      "canonical": "https://osteriafrancescana.it/",
+      "ogImage": "https://osteriafrancescana.it/wp-content/uploads/2023/07/220503_OF_Sueo_PDS_074.jpg"
+    }
+  },
+  {
+    "url": "https://osteriafrancescana.it/it",
+    "score": 88,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too long (327 chars). May be truncated."
+      },
+      {
+        "type": "warning",
+        "message": "13 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Single H1 heading present",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "OSTERIA FRANCESCANA - Massimo Bottura",
+      "description": "L'arte contemporanea è un'ispirazione, una guida e una musa.Le opere d'arte sulle pareti del ristorante non si limitano a decorare.Sono finestre su un paesaggio di idee che ampliano gli orizzonti e aprono a infinite possibilità.L’arte offre indizi sul nostro processo creativo e anima il dialogotra i nostri ospiti e la cucina.",
+      "canonical": "https://osteriafrancescana.it/it/home/",
+      "ogImage": "https://osteriafrancescana.it/wp-content/uploads/2023/07/220503_OF_Sueo_PDS_074.jpg"
+    }
+  },
+  {
+    "url": "https://osteriafrancescana.it/contacts",
+    "score": 89,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Meta description too short (101 chars). Aim for 150-160 characters."
+      },
+      {
+        "type": "warning",
+        "message": "4 image(s) missing alt text"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Single H1 heading present",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Contacts - OSTERIA FRANCESCANA",
+      "description": "Osteria Francescana is located in the heart of medieval Modena in the Emilia-Romagna region of Italy.",
+      "canonical": "https://osteriafrancescana.it/contacts/",
+      "ogImage": "https://osteriafrancescana.it/wp-content/uploads/2023/12/osteria-francescana-site-image.jpg"
+    }
+  }
+]

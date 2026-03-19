@@ -1,0 +1,38 @@
+/* allineamento in base al gruppo */
+
+/* centro */
+.wp-block-group.is-content-justification-center .blocco-contenuto-pretitle{text-align: center;}
+.wp-block-group.is-content-justification-center .blocco-contenuto-titolo{text-align: center;}
+.wp-block-group.is-content-justification-center .blocco-contenuto-sottotitolo{text-align: center;}
+.wp-block-group.is-content-justification-center .blocco-contenuto-paragrafo{text-align: center;margin-right:auto;margin-left:auto;}
+.wp-block-group.is-content-justification-center .blocco-contenuto-cta{text-align: center;}
+
+/* left */
+.wp-block-group.is-content-justification-left .blocco-contenuto-pretitle{text-align: left;}
+.wp-block-group.is-content-justification-left .blocco-contenuto-titolo{text-align: left;}
+.wp-block-group.is-content-justification-left .blocco-contenuto-sottotitolo{text-align: left;}
+.wp-block-group.is-content-justification-left .blocco-contenuto-paragrafo{text-align: left;}
+.wp-block-group.is-content-justification-left .blocco-contenuto-cta{text-align: left;}
+
+/* right */
+.wp-block-group.is-content-justification-right .blocco-contenuto-pretitle{text-align: right;}
+.wp-block-group.is-content-justification-right .blocco-contenuto-titolo{text-align: right;}
+.wp-block-group.is-content-justification-right .blocco-contenuto-sottotitolo{text-align: right;}
+.wp-block-group.is-content-justification-right .blocco-contenuto-paragrafo{text-align: right;}
+.wp-block-group.is-content-justification-right .blocco-contenuto-cta{text-align: right;}
+
+
+/* br */
+.editor-wysiwyg-spazio{display: block;margin-bottom: 20px;}
+
+
+
+
+
+
+
+
+
+
+
+/* END */

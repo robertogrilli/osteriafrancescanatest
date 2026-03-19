@@ -1,0 +1,54 @@
+.bottura-accordion-container{border-bottom:1px solid var(--wp--preset--color--colore-tre);}
+
+
+.bottura-accordion {
+    background-color: transparent;
+    cursor: pointer;
+    padding: 20px 0px 20px 0px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: all 0.4s;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    font-size:18px;
+    font-family: var(--wp--preset--font-family--primario) !important;
+    color:var(--wp--preset--color--colore-tre);
+    line-height:1.6rem;
+  }
+
+  .bottura-accordion-titolo{font-weight: 400 !important;}
+  
+  .bottura-accordion-panel {
+    font-size: var(--wp--preset--font-size--paragrafo)!important;
+    line-height:1.6rem;
+    transition:all 0.4s;
+    padding: 0 18px;
+    background-color: transparent;
+    overflow: hidden;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease-in-out;
+  }
+
+  .bottura-accordion-panel p{color: var(--wp--preset--color--colore-tre);font-size:var(--wp--preset--font-size--paragrafo);font-family: var(--wp--preset--font-family--primario) !important;font-weight: 200;line-height: 30px;}
+  
+  .bottura-accordion:before {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: var(--wp--preset--font-size--paragrafo);
+    color: var(--wp--preset--color--colore-tre) !important;
+    float: left;
+    margin-right: 5%;
+  }
+  
+  .is-open:before {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+  }
+
+@media(max-width:767px){
+  .bottura-accordion:before{font-size: 12px!important;}
+}
+
+

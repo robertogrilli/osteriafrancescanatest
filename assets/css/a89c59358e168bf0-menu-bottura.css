@@ -1,0 +1,14 @@
+.bottura-menu-nome-piatto,
+.bottura-menu-prezzo-piatto{color: var(--wp--preset--color--colore-tre);}
+.bottura-menu-riga{border-bottom:1px solid var(--wp--preset--color--colore-tre);padding: 15px 0px;}
+.bottura-menu-contenuto{display: flex;flex-direction: row;justify-content: space-between;}
+.bottura-menu-contenuto label{letter-spacing: 2.5px;}
+.bottura-menu-nome-piatto{max-width:70%;}
+
+
+/* toglie ultima riga */
+.blocco-menu-wrapper .bottura-menu-container:last-child .bottura-menu-riga{border-bottom: none;}
+.blocco-menu-wrapper .bottura-menu-container:last-child .bottura-menu-prezzo-piatto{margin-top: 20px;}
+
+
+ 
