@@ -815,7 +815,7 @@ body.menu-open .container_menu__slim {
   will-change: transform;
 }
 .slider-bottura {
-  opacity: 0;
+  opacity: 1;
 }
 
 /* -------------------------------------------------------------------------------- */
