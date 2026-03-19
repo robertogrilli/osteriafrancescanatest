@@ -504,6 +504,7 @@ a{transition: all 0.3s;}
 
 body:not(.block-editor-iframe__body) {
   opacity: 1;
+  visibility: visible;
   transition: opacity 0.3s, visibility 1s;
 }
 /* Page preloader */
